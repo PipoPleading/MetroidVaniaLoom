@@ -3,13 +3,13 @@
 importer="scene"
 importer_version=1
 type="PackedScene"
-uid="uid://cum4cp0xd3a83"
-path="res://.godot/imported/coloredPeach.glb-9114dad9ac8b6fea1ec4d6dc3c22b905.scn"
+uid="uid://caqhcu2orvxfg"
+path="res://.godot/imported/pocky.glb-c36e29b5f06e0c5c74286f891882c23d.scn"
 
 [deps]
 
-source_file="res://3d models/coloredPeach.glb"
-dest_files=["res://.godot/imported/coloredPeach.glb-9114dad9ac8b6fea1ec4d6dc3c22b905.scn"]
+source_file="res://3d models/pocky/pocky.glb"
+dest_files=["res://.godot/imported/pocky.glb-c36e29b5f06e0c5c74286f891882c23d.scn"]
 
 [params]
 

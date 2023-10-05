@@ -3,7 +3,7 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://0odbul6hb1r2"
-path.s3tc="res://.godot/imported/coloredPeach_bp_Peach.png-1a818d1b42065639fb1e1348e85e6f52.s3tc.ctex"
+path.s3tc="res://.godot/imported/coloredPeach_bp_Peach.png-4379ee7ca71275ad7a204dc04f75bc66.s3tc.ctex"
 metadata={
 "imported_formats": ["s3tc_bptc"],
 "vram_texture": true
@@ -12,8 +12,8 @@ generator_parameters={}
 
 [deps]
 
-source_file="res://3d models/coloredPeach_bp_Peach.png"
-dest_files=["res://.godot/imported/coloredPeach_bp_Peach.png-1a818d1b42065639fb1e1348e85e6f52.s3tc.ctex"]
+source_file="res://3d models/peach/coloredPeach_bp_Peach.png"
+dest_files=["res://.godot/imported/coloredPeach_bp_Peach.png-4379ee7ca71275ad7a204dc04f75bc66.s3tc.ctex"]
 
 [params]
 
