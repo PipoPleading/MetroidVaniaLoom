@@ -1,3 +1,8 @@
 [gd_scene format=3 uid="uid://dhy07miwfp635"]
 
 [node name="testWorld" type="Node3D"]
+
+[node name="levelElements" type="Node3D" parent="."]
+
+[node name="CSGBox3D" type="CSGBox3D" parent="levelElements"]
+size = Vector3(8, 0.563536, 8)
